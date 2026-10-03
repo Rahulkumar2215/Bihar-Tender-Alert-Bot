@@ -1,0 +1,418 @@
+{
+ "_note": "Real rows captured from eproc2.bihar.gov.in on 3 Oct 2026 (trimmed).",
+ "tenders": [
+  {
+   "currentOrgTenderId": 139365,
+   "currenttenderid": 139560,
+   "currenttenderrefno": "GPAST/RFP/01/2026-27",
+   "currentdescription": "Outsourcing of services of Security guard (unarmed), Electrician, Plumber, Housekeeping (including sweeper) Staff and Gardener in \nGovernment Polytechnic Asthawan, Nalanda",
+   "currentTenderPublishDate": 1789123661000,
+   "currentbidStartDate": 1789187400000,
+   "currentbidEndDate": 1791008940000,
+   "currentbidOpenDate": 1791009120000,
+   "currentdeptid": 1735,
+   "currentorgid": 538,
+   "currentproccatid": 1554,
+   "currenttendertypeid": 101,
+   "currenttendercatid": 102,
+   "currentstatus": 3
+  },
+  {
+   "currentOrgTenderId": 140276,
+   "currenttenderid": 140471,
+   "currenttenderrefno": "BRPNNL/CHAMP/1340",
+   "currentdescription": "Construction of (2+1) x 2, 6 Lane Toll Plaza at Dhanha-Ratwal 2 Lane Bridge over River Gandak in District-West Champaran in the State of Bihar",
+   "currentTenderPublishDate": 1790094801000,
+   "currentbidStartDate": 1790095500000,
+   "currentbidEndDate": 1791011340000,
+   "currentbidOpenDate": 1791021600000,
+   "currentdeptid": 1562,
+   "currentorgid": 538,
+   "currentproccatid": 1557,
+   "currenttendertypeid": 101,
+   "currenttendercatid": 101,
+   "currentstatus": 3
+  },
+  {
+   "currentOrgTenderId": 140472,
+   "currenttenderid": 140667,
+   "currenttenderrefno": "NIT - 02/2026-27 GR - 01",
+   "currentdescription": "Road and drain construction work from Pipriyat Khushpal's house to Barun Road in Nagar Parishad Daudnagar.",
+   "currentTenderPublishDate": 1790326589000,
+   "currentbidStartDate": 1790656200000,
+   "currentbidEndDate": 1791109800000,
+   "currentbidOpenDate": 1791113400000,
+   "currentdeptid": 1869,
+   "currentorgid": 538,
+   "currentproccatid": 1557,
+   "currenttendertypeid": 101,
+   "currenttendercatid": 101,
+   "currentstatus": 3
+  },
+  {
+   "currentOrgTenderId": 139654,
+   "currenttenderid": 139849,
+   "currenttenderrefno": "44/PR/NBPDCL/2026",
+   "currentdescription": "Procurement of 11KV XLPE UG Power Cable (3CX400) Sqmm",
+   "currentTenderPublishDate": 1789392597000,
+   "currentbidStartDate": 1789394417000,
+   "currentbidEndDate": 1791289800000,
+   "currentbidOpenDate": 1791358200000,
+   "currentdeptid": 1025,
+   "currentorgid": 538,
+   "currentproccatid": 1522,
+   "currenttendertypeid": 101,
+   "currenttendercatid": 102,
+   "currentstatus": 3
+  },
+  {
+   "currentOrgTenderId": 140166,
+   "currenttenderid": 140361,
+   "currenttenderrefno": "NIT-18/2026-27 GP- 90",
+   "currentdescription": "Road repair work in Ward No. 37 of Bettiah Municipal Corporation, extending from Rajendra Sharma's house to the Shiva Temple.",
+   "currentTenderPublishDate": 1789969896000,
+   "currentbidStartDate": 1789983011000,
+   "currentbidEndDate": 1791365411000,
+   "currentbidOpenDate": 1791538211000,
+   "currentdeptid": 800,
+   "currentorgid": 538,
+   "currentproccatid": 1557,
+   "currenttendertypeid": 101,
+   "currenttendercatid": 101,
+   "currentstatus": 3
+  },
+  {
+   "currentOrgTenderId": 140360,
+   "currenttenderid": 140555,
+   "currenttenderrefno": "BMSICL/Infra/09/2026 GR-08",
+   "currentdescription": "CONSTRUCTION OF 01 Health & Wellness Centre at Block- Ramgarh Chawk,  Dist.- Lakhisarai, Bihar.",
+   "currentTenderPublishDate": 1790243636000,
+   "currentbidStartDate": 1790244027000,
+   "currentbidEndDate": 1791804627000,
+   "currentbidOpenDate": 1791885627000,
+   "currentdeptid": 1553,
+   "currentorgid": 538,
+   "currentproccatid": 1557,
+   "currenttendertypeid": 101,
+   "currenttendercatid": 102,
+   "currentstatus": 3
+  },
+  {
+   "currentOrgTenderId": 140764,
+   "currenttenderid": 140959,
+   "currenttenderrefno": "26/BSBCCL/2026-27 GR01",
+   "currentdescription": "Construction of Footbal Stadium with 200Mtr Athletic Track at Kanhaiyachak H/S Parbatta of Khagaria Distt. Under Chief Minister Sports Development Scheme.",
+   "currentTenderPublishDate": 1790844352000,
+   "currentbidStartDate": 1790845200000,
+   "currentbidEndDate": 1792661441000,
+   "currentbidOpenDate": 1792747841000,
+   "currentdeptid": 1493,
+   "currentorgid": 538,
+   "currentproccatid": 1557,
+   "currenttendertypeid": 101,
+   "currenttendercatid": 101,
+   "currentstatus": 3
+  },
+  {
+   "currentOrgTenderId": 139930,
+   "currenttenderid": 140125,
+   "currenttenderrefno": "MGD/SARAN/GANGA/06-MUSEPUR SAND GHAT-6..",
+   "currentdescription": "E-auction for Settlement of Sand ghats of SARAN/GANGA/06-MUSEPUR SAND GHAT-6",
+   "currentTenderPublishDate": 1790065658000,
+   "currentbidStartDate": 1790141402000,
+   "currentbidEndDate": 1791372602000,
+   "currentbidOpenDate": 1791373202000,
+   "currentdeptid": 1943,
+   "currentorgid": 538,
+   "currentproccatid": 1559,
+   "currenttendertypeid": 121,
+   "currenttendercatid": 102,
+   "currentstatus": 3
+  }
+ ],
+ "orgs": [
+  {
+   "organizationId": 538,
+   "organizationName": "Government of Bihar",
+   "organizationCode": "Bihar"
+  },
+  {
+   "organizationId": 800,
+   "organizationName": "Urban Development and Housing Department",
+   "organizationCode": "UDHD_HQ"
+  },
+  {
+   "organizationId": 1025,
+   "organizationName": "NORTH BIHAR POWER DISTRIBUTION COMPANY LIMITED",
+   "organizationCode": "NBPDCL"
+  },
+  {
+   "organizationId": 1026,
+   "organizationName": "Building Construction Department",
+   "organizationCode": "BCD"
+  },
+  {
+   "organizationId": 1493,
+   "organizationName": "Bihar State Building Construction Corporation Ltd",
+   "organizationCode": "BSBCCL"
+  },
+  {
+   "organizationId": 1553,
+   "organizationName": "Bihar Medical Services and Infrastructure Corporation Limited",
+   "organizationCode": "BMSICL"
+  },
+  {
+   "organizationId": 1562,
+   "organizationName": "Bihar Rajya Pul Nirman Nigam Limited",
+   "organizationCode": "BRPNNL"
+  },
+  {
+   "organizationId": 1735,
+   "organizationName": "Department of Science and Technology",
+   "organizationCode": "DST"
+  },
+  {
+   "organizationId": 1869,
+   "organizationName": "Bihar Urban Infrastructure Development Corporation Ltd.",
+   "organizationCode": "BUIDCL"
+  },
+  {
+   "organizationId": 1943,
+   "organizationName": "MINES & Geology Department",
+   "organizationCode": "MINES"
+  },
+  {
+   "organizationId": 2146,
+   "organizationName": "Bihar Police Building Construction Corporation",
+   "organizationCode": "BPBCC"
+  },
+  {
+   "organizationId": 2560,
+   "organizationName": "BIHAR PUBLIC SERVICE COMMISSION, PATNA",
+   "organizationCode": "BPSC, Patna"
+  }
+ ],
+ "procCats": [
+  [
+   999,
+   "ITMRATE"
+  ],
+  [
+   1522,
+   "ELECTRICAL"
+  ],
+  [
+   1554,
+   "GENERAL"
+  ],
+  [
+   1556,
+   "MECHANICAL"
+  ],
+  [
+   1557,
+   "CIVIL"
+  ],
+  [
+   1558,
+   "IT-Related-works"
+  ],
+  [
+   1559,
+   "eAuction-Mining"
+  ]
+ ],
+ "tenderTypes": [
+  [
+   100,
+   "Limited Tender"
+  ],
+  [
+   101,
+   "Open Tender"
+  ],
+  [
+   120,
+   "Short Tender"
+  ],
+  [
+   121,
+   "E-Auction"
+  ]
+ ],
+ "detail_140471": {
+  "pacamt": 117026000.0,
+  "pacVisibilityFlag": "Y",
+  "queryString": "538.1562.1586.1587.2308.",
+  "templates": [
+   {
+    "subProcessName": "Date Schedule",
+    "templateFieldList": [
+     {
+      "code": "bid_end_date",
+      "value": "1791011340000"
+     }
+    ]
+   },
+   {
+    "subProcessName": "Pre-bid Discussion",
+    "templateFieldList": [
+     {
+      "code": "discussion_type",
+      "value": "OFFLINE"
+     },
+     {
+      "code": "meeting_start_date",
+      "value": "1790500000000"
+     },
+     {
+      "code": "venue",
+      "value": "Office of the Senior Project Engineer, Motihari"
+     }
+    ]
+   },
+   {
+    "subProcessName": "Payment",
+    "templateFieldList": [
+     {
+      "code": "payment_type",
+      "value": "EMD"
+     },
+     {
+      "code": "amount",
+      "value": "2171000"
+     }
+    ]
+   },
+   {
+    "subProcessName": "Payment",
+    "templateFieldList": [
+     {
+      "code": "payment_type",
+      "value": "Tender Fee"
+     },
+     {
+      "code": "amount",
+      "value": "10000"
+     }
+    ]
+   },
+   {
+    "subProcessName": "Payment",
+    "templateFieldList": [
+     {
+      "code": "payment_type",
+      "value": "Tender Processing Fee"
+     },
+     {
+      "code": "amount",
+      "value": "11800"
+     }
+    ]
+   },
+   {
+    "subProcessName": "Attachments",
+    "templateFieldList": [
+     {
+      "code": "attach_file",
+      "value": "33415/x.pdf|1|x"
+     }
+    ]
+   }
+  ]
+ },
+ "detail_140043_live": {
+  "pacamt": 13439050,
+  "pacVisibilityFlag": "Y",
+  "queryString": "538.1517.1549.",
+  "templates": [
+   {
+    "subProcessName": "Date Schedule",
+    "templateFieldList": [
+     {
+      "code": "bid_end_date",
+      "value": "1791019800000"
+     },
+     {
+      "code": "doc_sub_date",
+      "value": "undefined"
+     }
+    ]
+   },
+   {
+    "subProcessName": "Pre-bid Discussion",
+    "templateFieldList": [
+     {
+      "code": "discussion_type",
+      "value": "OFFLINE"
+     },
+     {
+      "code": "meeting_start_date",
+      "value": "1790404200000"
+     },
+     {
+      "code": "venue",
+      "value": "Executive Engineer, WSD, PMC, flat no. K-2 near Purani Chak Park New Punai Chak, Patna-800023."
+     }
+    ]
+   },
+   {
+    "subProcessName": "Payment",
+    "templateFieldList": [
+     {
+      "code": "payment_type",
+      "value": "EMD"
+     },
+     {
+      "code": "amount",
+      "value": "268800"
+     }
+    ]
+   },
+   {
+    "subProcessName": "Payment",
+    "templateFieldList": [
+     {
+      "code": "payment_type",
+      "value": "Tender Fee"
+     },
+     {
+      "code": "amount",
+      "value": "10000"
+     }
+    ]
+   },
+   {
+    "subProcessName": "Payment",
+    "templateFieldList": [
+     {
+      "code": "payment_type",
+      "value": "Tender Processing Fee"
+     },
+     {
+      "code": "amount",
+      "value": "5900"
+     }
+    ]
+   },
+   {
+    "subProcessName": "Attachments",
+    "templateFieldList": [
+     {
+      "code": "attach_file",
+      "value": "a|1|NIT.pdf"
+     }
+    ]
+   },
+   {
+    "subProcessName": "Attachments",
+    "templateFieldList": [
+     {
+      "code": "attach_file",
+      "value": "b|1|BOQ.pdf"
+     }
+    ]
+   }
+  ]
+ }
+}

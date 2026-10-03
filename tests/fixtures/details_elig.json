@@ -1,0 +1,3421 @@
+{
+"_note": "Real detail responses from eproc2.bihar.gov.in (3 Oct 2026), trimmed the same way the scraper trims them.",
+"140804": {
+"pacamt": 26685275,
+"pacVisibilityFlag": "Y",
+"queryString": "538.1493.1494.1495.1501.",
+"orgid": 538,
+"offerValidity": 120,
+"office": "DGM BSBCCL PATNA",
+"officer": "Mr Kamlesh Kumar (General Manager)",
+"templates": [
+{
+"subProcessName": "Date Schedule",
+"templategroupId": 33397,
+"templateFieldList": [
+{
+"code": "bid_start_date",
+"value": "1790688648000"
+},
+{
+"code": "bid_end_date",
+"value": "1791451848000"
+},
+{
+"code": "bid_open_date",
+"value": "1791538248000"
+},
+{
+"code": "doc_sub_date",
+"value": "1791538188000"
+}
+]
+},
+{
+"subProcessName": "Pre-bid Discussion",
+"templategroupId": 33401,
+"templateFieldList": [
+{
+"code": "discussion_type",
+"value": "Not Required"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33400,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "EMD"
+},
+{
+"code": "amount",
+"value": "534000"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|Bank Guarantee"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33400,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "Tender Fee"
+},
+{
+"code": "amount",
+"value": "10000"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33400,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "Tender Processing Fee"
+},
+{
+"code": "amount",
+"value": "5900"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Payment Receipt (EMD/Tender Fees/Tender Processing Fee)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Total value of civil engineering construction work, in Rupees, Performed in last five years. (BALANCE SHEET, PROFIT & LOSS AND AUDIT REPORT DULY AUDITED BY CA.)  Minimum annual financial turnover (in all classes of civil engineering construction works only) amount of construction work ,which must be at least  equal to  50 % of estimated cost of works for which bid has been invited. The turn over will be indexed at the rate of 8% for a year\n\n2021-22\n2022-23\n2023-24\n2024-25\n2025-26"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Amout in Rupees related to Work Experience of Similar nature -i) Satisfactory completed at least one similar work of value not less than 50% of estimated Cost (Escalation As per appendix ITB sl no-19) ii)  The completion Certificate shall be issued by employer not below the rank of executive engineer or project manager. In case of Private client the completion crtificate and valuation of the project issued by employer should be certified by the retired executive engineer/Registered valuer of Nationlised Bank/Insurance Company/Income Tax Department."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "QTY /AMOUNT AS INDICATED IN ANY ONE YEAR IN LAST FIVE YEAR (QUANTITY EXECUTED MUST BE SATISFIED BY CONCERN ENGINEER INCHARGE. In case of Private client the quantity executed will be issued by employer should be certifed by the retired executive engineer/Registered valuer of Nationalised Bank/Insurance Company/Income Tax Department.\n\nEARTHWORK(Excavation)\t543\tCUM\nBRICKWORK\t146\tCUM\nRCC+PCC\t155\tCUM\nEARTHWORK(Filling)\t360\tCUM"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Attach Affidavit in Precribed Format mention in SBD."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Proposed Methodology of Construction."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "AS PER SEC 2-1.5 MAX. AGE 5 YEARS ATTACHED OWNED VOUCHER /CASH MEMO/INVOICE AND AFFIDAVIT IN CASE OF LEASED/HIRE ON AND AFTER DATE OF TENDER\n\nType of Equipment \t                                        Nos.\tMaxm. Age\n1)Steel Shuttering\t                                        2000 Sft\t               5\n2)Concrete Mixer with Integral weigh Batching facility   1\t       5\n3)Vibrator (Plate & Niddle)\t                                                   2\t        5\n4)Water Tanker\t                                                                   1\t        5"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "AS PER SEC 2-1.6  ATTACHED NECESSARY CERTIFICATE AND CURRENT AFFIDAVIT OF BOTH EMPLOYEE AND EMPLOYER ON AND AFTER DATE OF TENDER\n\n1) Site Engineer / B.E. (Civil) + 03 Years Exp. (3 years in Building Construction) or Diploma in Civil + 7 year Exp. In Building construction or retired A.E.-\t\t1 no.\n2) Site Supervisor /Fresh Graduate in Civil or Diploma Civil + 02 Years Exp. or retired I.T.I Holder-\t\t        1 no."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Litigation History if Any."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Evidence of accesses to Financial Resources in Rupees-Evidence of access to or  availability of  creadit facilities (10% of estimated cost), certified by bankers (for work under this bid)."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Undertaking-Able to invest a minimum of cost upto 25% of contract value of work.  During implementation of contract."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Registration No.-any Contractor Registered with Central Government/Any State Government/Any Public Sector Undertakings or an agency of National or Internatiional repute may tender, but Registration with Building Construction Department will be essential after issue of Letter of Acceptance."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Legal Status/Place Of Registration/Principal Place Of Business./Power of Attorny."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "(a)\tAmount of Existing commitments and ongoing works in Rupees  (Bidder must declare themselve their all existing commitment hiding fact be sufficient cause for rejection.)\n(b)\tAmount of Work for which Bid already submitted, in Rupees\n(c) BIDDING CAPACITY ( BC=AxNx3-B) SHOULD BE MORE THAN BOQ."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Character Certificate of Bidder."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "NOC for Debar."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "GST Registration Certificate,PAN & Aadhar Document."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Experience Certificate of identifiied Sub Contractor (Electrical/PHE/Furnituer) will be valid. Experience Certificate should be issued by at least Executive Engineer and equivalent officer.It is Mandatory to Attched Mutual Affidavit & Registration Certificate of Sub Contractor"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "ATTACH AFFIDAVIT AS PRESCRIBED IN SEC-2 ON AND AFTER DATE OF TENDER."
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33399,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "As Per NIT"
+},
+{
+"code": "unf2",
+"value": "NIT"
+},
+{
+"code": "unf3",
+"value": "33399/1790665330567_NIT-25.PDF|NIT-25.PDF"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33399,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "As Per NIT"
+},
+{
+"code": "unf2",
+"value": "CHECK LIST FOR CONTRACTOR"
+},
+{
+"code": "unf3",
+"value": "33399/1790665384523_CHECK LIST FOR CONTRACTORS.pdf|CHECK LIST FOR CONTRACTORS.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33396,
+"templateFieldList": [
+{
+"code": "label",
+"value": "1"
+},
+{
+"code": "file_name",
+"value": "NIT-25.PDF"
+},
+{
+"code": "attach_file",
+"value": "33396/1790665638126_NIT-25.PDF|1912555|NIT-25.PDF"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33396,
+"templateFieldList": [
+{
+"code": "label",
+"value": "3"
+},
+{
+"code": "file_name",
+"value": "CHECK LIST FOR CONTRACTORS.pdf"
+},
+{
+"code": "attach_file",
+"value": "33396/1790665638115_CHECK LIST FOR CONTRACTORS.pdf|1841456|CHECK LIST FOR CONTRACTORS.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33396,
+"templateFieldList": [
+{
+"code": "label",
+"value": "5"
+},
+{
+"code": "file_name",
+"value": "UDIN.pdf"
+},
+{
+"code": "attach_file",
+"value": "33396/1790676096315_UDIN.pdf|2282691|UDIN.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33396,
+"templateFieldList": [
+{
+"code": "label",
+"value": "6"
+},
+{
+"code": "file_name",
+"value": "Order-1.pdf"
+},
+{
+"code": "attach_file",
+"value": "33396/1790683005515_Order-1.pdf|666073|Order-1.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33396,
+"templateFieldList": [
+{
+"code": "label",
+"value": "7"
+},
+{
+"code": "file_name",
+"value": "Order-2.pdf"
+},
+{
+"code": "attach_file",
+"value": "33396/1790683005672_Order-2.pdf|576801|Order-2.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33396,
+"templateFieldList": [
+{
+"code": "label",
+"value": "2"
+},
+{
+"code": "file_name",
+"value": "BOQ_NALANDA BIND.xlsx"
+},
+{
+"code": "attach_file",
+"value": "33396/1790687647376_BOQ_NALANDA BIND.xlsx|1236324|BOQ_NALANDA BIND.xlsx"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33396,
+"templateFieldList": [
+{
+"code": "label",
+"value": "4"
+},
+{
+"code": "file_name",
+"value": "SBD NALANDA BIND.doc"
+},
+{
+"code": "attach_file",
+"value": "33396/1790687679999_SBD NALANDA BIND.doc|30003200|SBD NALANDA BIND.doc"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Payment Receipt (EMD/Tender Fees/Tender Processing Fee)"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Financial"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Total value of civil engineering construction work, in Rupees, Performed in last five years."
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Financial"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Amout in Rupees related to Work Experience of Similar nature"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Financial"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "QTY /AMOUNT AS INDICATED IN ANY ONE YEAR IN LAST FIVE YEAR"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Financial"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Attach Affidavit in Precribed Format mention in SBD."
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Proposed Methodology of Construction."
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "AS PER SEC 2-1.5 MAX. AGE 5 YEARS ATTACHED OWNED VOUCHER /CASH MEMO/INVOICE AND AFFIDAVIT IN CASE OF"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "AS PER SEC 2-1.6  ATTACHED NECESSARY CERTIFICATE AND CURRENT AFFIDAVIT OF BOTH EMPLOYEE AND EMPLOYER"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Litigation History if Any."
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Evidence of accesses to Financial Resources in Rupees-Evidence of access to or  availability of  cre"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Undertaking-Able to invest a minimum of cost upto 25% of contract value of work.  During implementat"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Registration No.-any Contractor Registered with Central Government/Any State Government/Any Public S"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Legal Status/Place Of Registration/Principal Place Of Business./Power of Attorny."
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Amount of Existing commitments and ongoing works in Rupees  (Bidder must declare themselve their all"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Amount of Work for which Bid already submitted, in Rupees"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "BIDDING CAPACITY ( BC=AxNx3-B) SHOULD BE MORE THAN BOQ."
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Character Certificate of Bidder."
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "NOC for Debar."
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "GST Registration Certificate,PAN & Aadhar Document."
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Experiences"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Experience Certificate of identifiied Sub Contractor (Electrical/PHE/Furnituer) will be valid. Exper"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "ATTACH AFFIDAVIT AS PRESCRIBED IN SEC-2 ON AND AFTER DATE OF TENDER."
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+}
+]
+},
+"139915": {
+"pacamt": 1110686498,
+"pacVisibilityFlag": "Y",
+"queryString": "538.945.951.956.1150.",
+"orgid": 538,
+"offerValidity": 180,
+"office": "PRATIK KUMAR",
+"officer": "Mr PRATIK KUMAR (EXECUTIVE ENGINEER)",
+"templates": [
+{
+"subProcessName": "Date Schedule",
+"templategroupId": 33434,
+"templateFieldList": [
+{
+"code": "bid_start_date",
+"value": "1789965003000"
+},
+{
+"code": "bid_end_date",
+"value": "1791192603000"
+},
+{
+"code": "bid_open_date",
+"value": "1791194403000"
+}
+]
+},
+{
+"subProcessName": "Pre-bid Discussion",
+"templategroupId": 33435,
+"templateFieldList": [
+{
+"code": "discussion_type",
+"value": "OFFLINE"
+},
+{
+"code": "meeting_start_date",
+"value": "1790227804000"
+},
+{
+"code": "meeting_end_date",
+"value": "1790235004000"
+},
+{
+"code": "venue",
+"value": "Office of C.E., South, RCD, Bihar, Patna (Vishveshwarya Bhawan, Bailey Road,Patna)"
+},
+{
+"code": "remarks",
+"value": "Office of C.E., South, RCD, Bihar, Patna (Vishveshwarya Bhawan, Bailey Road,Patna)"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33436,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "EMD"
+},
+{
+"code": "amount",
+"value": "12107000"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|Bank Guarantee"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33436,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "Tender Fee"
+},
+{
+"code": "amount",
+"value": "10000"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33436,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "Tender Processing Fee"
+},
+{
+"code": "amount",
+"value": "11800"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Registration (Any Contractor registered with the Central Government/ Any State Government or Any PSU or an agency of International or National repute may participate in the tender but registration with the Road Construction Department, Bihar will be essential after issuance of Letter of Acceptance and before execution of Agreement)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "\"Bid Security (Bid Security can be paid through offline or online\nmode)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Cost of BOQ (Through online mode only i.e. Internet Payment Gateway, Net Banking, NEFT/RTGS etc. Bids along with necessary online payment must be submitted through e-procurement portal https://eproc2.bihar.gov.in before the bid submission end date and the time specified.)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Bid Validity (Bids should be valid for not less than 180 days after bid submission end date or beyond any period of extension if requested. A Bid valid for a shorter period shall be rejected by the Employer as non-responsive)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Conflict of Interest  (No conflicts of interests in accordance with ITB Sub-Clause 4.3)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Bidder's Information Sheet (Copies of original documents defining the constitution or legal status, place of registration, and principal place of business; written power of attorney of the signatory of the bid to commit the Bidder)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Joint Venture Information Sheet (Copies of original documents defining the constitution or legal status, place of registration, and principal place of business of the Joint Venture)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Undertaking by the Joint Venture Partners (On Non-Judicial Stamp Paper of Appropriate Value)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Pending Litigation (Information regarding litigation)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Historical Contract Non-Performance (Information regarding any litigation, arbitration or blacklisting, resulting from contracts executed by the Bidder in the last five years or currently under execution. The information shall include the names of the parties concerned, the disputed amount, cause of litigation, and matter in dispute)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Net Profit (Submission of audited balance sheets acceptable to the Employer, for the last five [5] years to demonstrate the current soundness of the bidders financial position and its prospective long term profitability. The Bidder should have made a Net Profit in any three [3] years in the last five [5] years)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Net Worth (The Bidder should have made a Net Worth not less than 10% of Estimated Cost Value (ECV) in latest financial years of last [5] five years)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Annual Turnover (\"Annual Turnover in any one [1] year in last five [5] year must not be less than 40% of the Estimated Cost Value (ECV) (calculated as total certified payments received for Contracts in progress or completed, within the last five [5] years).\nNote: \n1.\tFinancial turnover and cost of completed works of previous financial years shall be given a weighting of 8% per year to update the costs.\n\n2.\tYear 1 will be the latest completed financial year, preceding the bidding. Year 2 shall be immediately preceding year 1 and so on. In case the Bid Submission date falls within 3 (three) months of the close of the latest financial year, the bidder shall ignore such financial year for the purpose of its bid and furnish all its information and certification with reference to the 5 (five) years preceding its latest financial year i.e. 2025-26. For the avoidance of doubt, financial year shall, for the purpose of the Bid hereunder, mean the accounting year followed by the Bidder in the course of its normal business.)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Bid Capacity (\"Bidders who meet the minimum Qualifying Criteria stipulated in Clause 2.1 to 2.6 will be qualified, only if, their Available Bid Capacity is more than the Total Bid Value of the Works.\nThe Available Bid Capacity shall be assessed/ calculated as under:\nAssessed Available Bid Capacity = A x N x 1 - B\nWhere;\nA = \tMaximum Value of Civil Construction & Maintenance Works executed in any One [1] year during the last five [5] years updated to the price level of financial year [2026-27] by the Bidder taking into account of the completed as well as works in progress.\nN = \tNumber of years prescribed for completion of the works for which bids are invited.\nB = \tValue updated at the price level of financial year [2026-27] of existing commitments and on-going works to be completed by the bidder during the next 84 months or Sum of the values updated at the price level of financial year of [2026-27] the existing commitments and ongoing works to be completed by each of the JV partner during the next 84 months. However; where the bidders are bidding for more than one [1] Contract Packages, the Value of its other allotted works will be included in the value of ?B? and the Employer may write a letter to the bidder to submit self-declaration regarding allotment of new works other than the works declared in the bid. The bidder shall be obliged to submit the above details within the stipulated time and before the date of evaluation of technical bid. Any non-compliance in this regard by the bidder shall be treated as bid non-responsive and shall be liable for rejection of bid. The Bidder is to complete form of Current Contract Commitments as part of their Bid for the determination of this value and Current Contract Commitments must be duly certified by the Engineer-in-charge)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Financial Resources (The Bidder must demonstrate access to, or availability of, financial resources such as liquid assets, unencumbered real assets, lines of credit, and other financial means, other than any contractual advance payments to meet: Credit Lines/ Letter of Credit / Solvency Certificates from Banks etc. shall be not less than 10% of the total Estimated Cost Value)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Exiating Committements of on-going Works."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "General Experience (Experience under Road Maintenance or Improvement Contract or Construction Contract as Contractor/ Sub-Contractor, SBD, CMBD, HAM, EPC, BOT, BOOT (Developers/ Operators) or Civil Works/Management Contractor for at least the last five [5] years prior to the applications submission deadline)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Specific Experience (\"(a)\tParticipation as Contractor, Management Contractor, or Sub-Contractor or BOT, BOOT Developer/Operator with in the last five [5] years, in Road Construction or Maintenance Works Contracts, of which upto two [2] Contracts have a Combined Values not less than 50% of Estimated Cost Value (ECV) and have been successfully completed/ substantially completed. The Works completed must be in similar nature to the Works & Services of the proposed Contract.\nFor the purpose of the above requirement:\n(i)\tOPRMC Contracts shall be considered as substantially completed if the Contractor has completed 100% of Minor Improvement Works feasible, 100% of Initial Rectification Works feasible and 100% of Periodic Maintenance Works feasible.\n(ii)\tall other types of Contracts shall be considered as substantially completed if the Contractor has completed 90% of the Value of Works)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Key Personnel (The Bidder must demonstrate that it has the personnel for the key positions that meet the following requirements. The Bidder should provide the details of the proposed personnel and their experience record using the Forms PER-1 and PER-2 of Section 4, Bidding Forms supported by the experience certificates duly countersigned by the respective clients)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Equipment (The Bidder shall own at least One Hot Mix Plant (40-60 tonne/hour Capacity) not more than 15 years age. The Bidder must demonstrate & submit the supportive documents that it has or has access to (own/lease/hire etc. and to be procured) the key equipment (machinery) listed as under)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Initial Tentative Program of Performance (\"To demonstrate a clear understanding of the requirements of the Contract, Bidders shall provide the following: \n(i)\ta bar chart sub-divided into sections for each road showing the major activities to be carried out for Ordinary Maintenance Works, Initial Rectification Works, Periodic Maintenance Works and Minor Improvement Works (separately for Improvement & Strengthening). \n(ii)\tactivities shall be shown against time, with linkages shown between related/ sequential activities as far as possible and appropriate;\n(iii)\ta bar chart or schedule showing the usage of major plant, including those listed in Contractor?s Equipment. Duly supported with equipment planning and deployment, showing with broad calculations justifying the bidder?s capability for the execution and completion of the work as per the technical specifications and within the periods of completion as per the stipulated milestones)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Project Specific Information (\"The Bidder shall provide the statements in respect to the following information:\n(a)\tProposed methodology for undertaking Ordinary Maintenance (OM), Initial Rectification (IR), Periodic Maintenance including re-application of Road Marking (PM) and Minor Improvement including Strengthening (MI), and identification of road sections that major activities shall be applied.\n(b)\tDetails of safety, traffic, environmental management aspects to be adopted by the Bidder. ?As per the Checklist provided in Form OM-14 of Technical Specifications.?\n(c)\tBidder?s experience in managing testing of work.\n(d)\tStatement indicating whether: \ni\tthe Bidder accepts the Sample Quality Plan and if so, that the Bidder will provide an updated Quality Plan within the time frame stated in Clause 14.1 of Section 5A, if awarded the Contract; or\nii\tthe Bidder does not accept the Sample Quality Plan, in which case the Bidder will be required to provide its own Quality Plan in accordance with and within the time frame stated in 14.1 of Section 5A, and which as a minimum, includes the same level of detail as the Sample Quality Plan and explains the purpose, application, responsibilities and requirements to undertake works in accordance with the intent of the Contract, the general provisions for the occupational health and safety of employees and the public, environmental management requirements and the Statutory Laws of India Statement in respect to the Quality Plan.\n(e)\tAll Bidders shall provide with their Bid a preliminary description of the proposed work method and program and resource schedules, including drawings and charts, as necessary)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Power of Attorney of Signatory of Bid."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33439,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Affidavit (\"(a) Bidders will have to declare by affidavit that they have not been declared defaulter/rescinded/debarred/blacklisted by the State Govt./Central Govt./Public Undertaking. If such affidavit is subsequently found to be false, their tender shall not be considered and further legal action shall be initiated.\"\n\n(b) Bidders will have to declare by affidavit that they have not made misleading or false representations in the forms, statements and attachments uploaded in proof of the qualification requirements."
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33440,
+"templateFieldList": [
+{
+"code": "unf3",
+"value": "33440/1789541743472_IFB 46A.pdf|IFB 46A.pdf"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33440,
+"templateFieldList": [
+{
+"code": "unf3",
+"value": "33440/1789541750434_Section 1. Instructions to Bidders (ITB) 46A.pdf|Section 1. Instructions to Bidders (ITB) 46A.pdf"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33440,
+"templateFieldList": [
+{
+"code": "unf3",
+"value": "33440/1789541762609_Technical Template_OPRMC-III_46A.xlsx|Technical Template_OPRMC-III_46A.xlsx"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "IFB 46A DOCUMENT"
+},
+{
+"code": "file_name",
+"value": "IFB 46A.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1789542088419_IFB 46A.pdf|434140|IFB 46A.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Section 1. Instructions to Bidders (ITB) 46A"
+},
+{
+"code": "file_name",
+"value": "Section 1. Instructions to Bidders (ITB) 46A.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1789542089175_Section 1. Instructions to Bidders (ITB) 46A.pdf|1118449|Section 1. Instructions to Bidders (ITB) 46A.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Section 2. Bid Data Sheet 46A"
+},
+{
+"code": "file_name",
+"value": "Section 2. Bid Data Sheet 46A.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1789542091321_Section 2. Bid Data Sheet 46A.pdf|3453759|Section 2. Bid Data Sheet 46A.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Section 3. Evaluation & Qualification Criteria  46A"
+},
+{
+"code": "file_name",
+"value": "Section 3. Evaluation & Qualification Criteria  46A.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1789542089040_Section 3. Evaluation & Qualification Criteria  46A.pdf|899374|Section 3. Evaluation & Qualification Criteria  46A.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Section 4. Bidding Forms 46A"
+},
+{
+"code": "file_name",
+"value": "Section 4. Bidding Forms 46A.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1789542089487_Section 4. Bidding Forms 46A.pdf|1096882|Section 4. Bidding Forms 46A.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Section 5. Technical Specifications 46A"
+},
+{
+"code": "file_name",
+"value": "Section 5. Technical Specifications 46A.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1789542090153_Section 5. Technical Specifications 46A.pdf|1801728|Section 5. Technical Specifications 46A.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Section 6. General Conditions of Contract 46A"
+},
+{
+"code": "file_name",
+"value": "Section 6. General Conditions of Contract 46A.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1789542090356_Section 6. General Conditions of Contract 46A.pdf|1342712|Section 6. General Conditions of Contract 46A.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Section 7. Particular Conditions of Contract 46A"
+},
+{
+"code": "file_name",
+"value": "Section 7. Particular Conditions of Contract 46A.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1789542089930_Section 7. Particular Conditions of Contract 46A.pdf|764300|Section 7. Particular Conditions of Contract 46A.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Section 8. Contract Forms 46B"
+},
+{
+"code": "file_name",
+"value": "Section 8. Contract Forms 46B.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1789542090516_Section 8. Contract Forms 46B.pdf|842018|Section 8. Contract Forms 46B.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Technical Template_OPRMC-III_46A"
+},
+{
+"code": "file_name",
+"value": "Technical Template_OPRMC-III_46A.xlsx"
+},
+{
+"code": "attach_file",
+"value": "33437/1789542090178_Technical Template_OPRMC-III_46A.xlsx|21756|Technical Template_OPRMC-III_46A.xlsx"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Financial Template_OPRMC-III_46A"
+},
+{
+"code": "file_name",
+"value": "Financial Template_OPRMC-III_46A.xlsx"
+},
+{
+"code": "attach_file",
+"value": "33437/1789542090356_Financial Template_OPRMC-III_46A.xlsx|33573|Financial Template_OPRMC-III_46A.xlsx"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Ltt -982, Re-tender OPRMC NIT"
+},
+{
+"code": "file_name",
+"value": "Ltt -982, Re-tender OPRMC NIT.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1789543745758_Ltt -982, Re-tender OPRMC NIT.pdf|4045945|Ltt -982, Re-tender OPRMC NIT.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "PAPER PUBLISHED"
+},
+{
+"code": "file_name",
+"value": "New Doc 09-16-2026 12.49.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1789546536002_New Doc 09-16-2026 12.49.pdf|914959|New Doc 09-16-2026 12.49.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33437,
+"templateFieldList": [
+{
+"code": "label",
+"value": "CORRIGENDUM"
+},
+{
+"code": "file_name",
+"value": "New Doc 09-26-2026 12.21.pdf"
+},
+{
+"code": "attach_file",
+"value": "33437/1790434692321_New Doc 09-26-2026 12.21.pdf|186302|New Doc 09-26-2026 12.21.pdf"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Registration"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "\"Bid Security (Bid Security can be paid through offline or online mode)\""
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Cost of BOQ"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Bid Validity"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Conflict of Interest"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Bidder's Information Sheet"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Joint Venture Information Sheet"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Undertaking by the Joint Venture Partners"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Pending Litigation"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Historical Contract Non-Performance"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Net Profit"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Net Worth"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Annual Turnover"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33438,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Bid Capacity"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+}
+]
+},
+"139849": {
+"pacamt": 390316658.76,
+"pacVisibilityFlag": "Y",
+"queryString": "538.1025.1164.1165.1169.",
+"orgid": 538,
+"offerValidity": 180,
+"office": "ESE,S & P,NBPDCL",
+"officer": "Mr SANJAY KUMAR (SUPERINTENDENT ENGINEER)",
+"templates": [
+{
+"subProcessName": "Date Schedule",
+"templategroupId": 33564,
+"templateFieldList": [
+{
+"code": "bid_start_date",
+"value": "1789394417000"
+},
+{
+"code": "bid_end_date",
+"value": "1791289800000"
+},
+{
+"code": "bid_open_date",
+"value": "1791358200000"
+},
+{
+"code": "doc_sub_date",
+"value": "1791354617000"
+}
+]
+},
+{
+"subProcessName": "Pre-bid Discussion",
+"templategroupId": 33565,
+"templateFieldList": [
+{
+"code": "discussion_type",
+"value": "OFFLINE"
+},
+{
+"code": "meeting_start_date",
+"value": "1790055000000"
+},
+{
+"code": "meeting_end_date",
+"value": "1790062217000"
+},
+{
+"code": "venue",
+"value": "At CE(S&P) Chamber Vidyut Bhawan-III, Baily Road Patna"
+},
+{
+"code": "remarks",
+"value": "Pre bid discussion"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33566,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "EMD"
+},
+{
+"code": "amount",
+"value": "4903170"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|Bank Guarantee"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "Y"
+},
+{
+"code": "supporting_doc",
+"value": "Yes, as per NIT"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33566,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "Tender Fee"
+},
+{
+"code": "amount",
+"value": "23600"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "Y"
+},
+{
+"code": "supporting_doc",
+"value": "Yes as per NIT"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33566,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "Tender Processing Fee"
+},
+{
+"code": "amount",
+"value": "11800"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": " Name of Manufacturer "
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Full address of the tenderer with E-mail Address & contact No."
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": " Name of material"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Tender notice No. with due date"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Quantity offered\n(Must be 100 % of the tendered quantity)\n"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Delivery Schedule (must be as per NIT)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Price ( Variation as per NIT)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Validity of the offer \n(should not be less than 180 days)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Amount of Earnest Money paid with No. & date of  B.G./ Exemption Certificate Details"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Acceptance of the terms of payment"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "No deviation from the tender specification"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Acceptance of Price variation clause"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Acceptance of penalty clause"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Acceptance of Guarantee clause"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Acceptance of Qualtity Distribution clause"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Acceptance of all other clauses mentioned in NIT"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Quantity if any, yet to be delivered against pending P.O. delivery schedule, details of up-to-date supply made with quantity and date"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Guaranteed technical particulars"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "\" (i)     The bidder must be the original manufacturer of the tendered materials. The bidder must have successfully supplied at least 50 %  of the tendered quantity directly or through any turnkey agency to any Indian Power Utility / Government Organization in one Financial year in the last 5 (Five) years ending on the date of opening of the tender.\n?  Bidder shall have to submit copy of PO/LOA of un-priced/priced purchase orders and proof of actual delivery of materials to the client of each order supported by duly acknowledged delivery challans or excise duty/ GST, gate passes or, client?s certificate\"\n"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Bidder's capability:\n? The bidder?s Annual production capacity shall not be less than the tendered quantity required to be supplied in consecutive last 3 years .The bidder must submit Annual reports/certificate issued by Charted Accountant /NSIC/ Directorate of Industries,, clearly mentioning the annual production with an affidavit in this regard during the last 3 (three) Financial years.  NIT submission. Bidder must also submit an affidavit regarding genuineness of the report.\n"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": " Annual Production:\n?    The bidder must submit Annual reports/certificate issued by CA, clearly mentioning the annual production with an affidavit in this regard during the last 5 (Five) Financial years.\n"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Past performance (copy of order received and execution details)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Type test report from CPRI/NTH/ERDA Lab or any equivalent Central Govt./State Government laboratory accredited by NABL will be accepted otherwise the bid shall be summarily rejected. (Within last Five years)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Whether Notorised Affidavit is enclosed"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Regarding Non-Blacklisting/ Debarment of the Firm"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Regarding Genuineness of the all documents including Type Test Certificte enclosed with the tender"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Details of plant and machinery & testing facility to be furnished. List of various testing equipments, capacity, cost and validity of calibration etc. shall be furnished with the tender"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "?The bidder must have MAAT (Minimum Average Annual Turnover) of at least INR  Fifty Crore for the best three (3) financial years out of last five (5) financial years (i.e from FY 2021-22 to FY 2025-26).\n\n?For SSI unit of Bihar or  Bihar Micro and Small Enterprises (BMSEs) , vendor must have turnover of at least 50% of the MAAT requirement as mentioned above i.e. INR 25 Crore only for any one year out of last five (5) financial years (i.e from FY 2021-22 to FY 2025-26)). Required Audited Annual Accounts must be accompanied with bid documents. "
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Audited Annual Accounts of the last 5 (five) financial years(i.e from FY 2021-22 to FY 2025-26) needs to be submitted which must specify the turnover.\nAnd,\nAuditor Certificate which mention MAAT for the best three (3) financial years out of last five (5) financial years (i.e from FY 2021-22 to FY 2025-26)"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "? Net Worth of last three financial year shall be positive up to FY 2025-26..\n Audited Annual Accounts of the reference financial year needs to be submitted. \n"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Enclosures with the tender should be specified"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Whether all papers uploaded with tender are signed and stamped by the tenderer"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Certificate from  Banker(s) (as per prescribed formats indicating various fund based/non fund based limits sanctioned to the Bidder and the extent of utilization as on date. Such certificate should have been issued not earlier than three months prior to the date of bid opening "
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33567,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": " Remarks (if any)"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33568,
+"templateFieldList": [
+{
+"code": "unf2",
+"value": "Deliver Schedule (must be as per NIT)"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33568,
+"templateFieldList": [
+{
+"code": "unf2",
+"value": "Price ( variation as per NIT)"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33568,
+"templateFieldList": [
+{
+"code": "unf2",
+"value": "Validity of the offer (should not be less than 180 days)"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33568,
+"templateFieldList": [
+{
+"code": "unf2",
+"value": "Amount of Earnest Money paid with No. & date of  B.G. /Details of Online BG/ Exemption Certificate Details"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33568,
+"templateFieldList": [
+{
+"code": "unf2",
+"value": "Acceptance of the terms of payment"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33568,
+"templateFieldList": [
+{
+"code": "unf2",
+"value": "Acceptance of Nil deviation from the tender specification"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33568,
+"templateFieldList": [
+{
+"code": "unf2",
+"value": "Acceptance of penalty clause"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33568,
+"templateFieldList": [
+{
+"code": "unf2",
+"value": "Acceptance of Guarantee clause"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33568,
+"templateFieldList": [
+{
+"code": "unf2",
+"value": "Acceptance of Quantity Distribution clause"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33568,
+"templateFieldList": [
+{
+"code": "unf2",
+"value": "Acceptance of all other clauses mentioned in NIT"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33568,
+"templateFieldList": [
+{
+"code": "unf2",
+"value": "Guarantee Technical Particulars"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33570,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Notice"
+},
+{
+"code": "file_name",
+"value": "NIT 44.pdf"
+},
+{
+"code": "attach_file",
+"value": "33570/1789391057605_NIT 44.pdf|595870|NIT 44.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33570,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Tender document"
+},
+{
+"code": "file_name",
+"value": "Tender document 11 KV 400.doc"
+},
+{
+"code": "attach_file",
+"value": "33570/1789392510701_Tender document 11 KV 400.doc|317440|Tender document 11 KV 400.doc"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33570,
+"templateFieldList": [
+{
+"code": "label",
+"value": "Tener Specification"
+},
+{
+"code": "file_name",
+"value": "86286_Technical Specificationfor HTCable 11 KV.doc"
+},
+{
+"code": "attach_file",
+"value": "33570/1789392510642_86286_Technical Specificationfor HTCable 11 KV.doc|171520|86286_Technical Specificationfor HTCable 11 KV.doc"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33569,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Name & full address of bidder along with E-mail Id & contact no."
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33569,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Entity Registration Certificate"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Experiences"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33569,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Documentary evidence regarding category of the manufacturer (Micro / Small / Medium / Large/BSMEs)"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Experiences"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33569,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Type test certificate as per NIT"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Experiences"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33569,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Work Experience  as per NIT"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33569,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Bidder's capability"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Experiences"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33569,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Annual Production reports/ certificates issued by CA"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Experiences"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+}
+]
+},
+"140727": {
+"pacamt": 4454803,
+"pacVisibilityFlag": "Y",
+"queryString": "538.1869.2254.2256.2263.",
+"orgid": 538,
+"offerValidity": 180,
+"office": "ASHOK KUMAR",
+"officer": "Mr ASHOK KUMAR (Project Director)",
+"templates": [
+{
+"subProcessName": "Date Schedule",
+"templategroupId": 33397,
+"templateFieldList": [
+{
+"code": "bid_start_date",
+"value": "1790656200000"
+},
+{
+"code": "bid_end_date",
+"value": "1791109800000"
+},
+{
+"code": "bid_open_date",
+"value": "1791113400000"
+}
+]
+},
+{
+"subProcessName": "Pre-bid Discussion",
+"templategroupId": 33401,
+"templateFieldList": [
+{
+"code": "discussion_type",
+"value": "OFFLINE"
+},
+{
+"code": "meeting_start_date",
+"value": "1790751600000"
+},
+{
+"code": "meeting_end_date",
+"value": "1790760600000"
+},
+{
+"code": "venue",
+"value": "Buidco Office Gaya"
+},
+{
+"code": "remarks",
+"value": "DM Campus Near DRDA Gaya"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33400,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "EMD"
+},
+{
+"code": "amount",
+"value": "89100"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33400,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "Tender Fee"
+},
+{
+"code": "amount",
+"value": "11800"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+}
+]
+},
+{
+"subProcessName": "Payment",
+"templategroupId": 33400,
+"templateFieldList": [
+{
+"code": "payment_type",
+"value": "Tender Processing Fee"
+},
+{
+"code": "amount",
+"value": "1180"
+},
+{
+"code": "payment_mode",
+"value": "Internet Payment Gateway(IPG),Challan|"
+},
+{
+"code": "payment_currency",
+"value": "INR"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Name of Bidder"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Address of Bidder"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Email ID and Mobile No"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "GST No and PAN No"
+}
+]
+},
+{
+"subProcessName": "GENERAL PARTICULARS",
+"templategroupId": 33402,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "Registration"
+}
+]
+},
+{
+"subProcessName": "Terms and Conditions",
+"templategroupId": 33399,
+"templateFieldList": [
+{
+"code": "unf1",
+"value": "NIT"
+},
+{
+"code": "unf2",
+"value": "Accept all terms and condition as per NIT"
+},
+{
+"code": "unf3",
+"value": "33399/1790362784904_NIT 02 26-27 Jehanabad.pdf|NIT 02 26-27 Jehanabad.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33396,
+"templateFieldList": [
+{
+"code": "label",
+"value": "NIT"
+},
+{
+"code": "file_name",
+"value": "NIT 02 26-27 Jehanabad.pdf"
+},
+{
+"code": "attach_file",
+"value": "33396/1790362822964_NIT 02 26-27 Jehanabad.pdf|1290771|NIT 02 26-27 Jehanabad.pdf"
+}
+]
+},
+{
+"subProcessName": "Attachments",
+"templategroupId": 33396,
+"templateFieldList": [
+{
+"code": "label",
+"value": "BOQ"
+},
+{
+"code": "file_name",
+"value": "Nala Office GR 01.pdf"
+},
+{
+"code": "attach_file",
+"value": "33396/1790362823236_Nala Office GR 01.pdf|1568374|Nala Office GR 01.pdf"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Name and Address of Bidder"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "EMD Document as per NIT"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Affidavit as per NIT"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Details of Tools and Plants as per NIT"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Character Certificate"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Bid capacity as per NIT Document"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Details of GST and PAN"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Certificate of Registration"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Legal status as per NIT"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Any other document required must be uploaded as per NIT"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Deatils of Key Persnoal As per NIT"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+},
+{
+"subProcessName": "Required Attachment from Bidder",
+"templategroupId": 33398,
+"templateFieldList": [
+{
+"code": "supporting_doc",
+"value": "Similar Nature of Work As per NIT"
+},
+{
+"code": "mandatory_flag",
+"value": "Y"
+},
+{
+"code": "exemption_flag",
+"value": "N"
+},
+{
+"code": "attachment_group",
+"value": "Others"
+},
+{
+"code": "evaluation_type",
+"value": "BidPart1"
+}
+]
+}
+]
+}
+}

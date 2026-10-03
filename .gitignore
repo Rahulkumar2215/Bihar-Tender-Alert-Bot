@@ -1,0 +1,19 @@
+# secrets and local data – never committed
+.env
+data/
+*.db
+*.db-*
+*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
