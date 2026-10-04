@@ -15,13 +15,16 @@
 
 ## The problem
 
-Bihar publishes all government works on [eproc2.bihar.gov.in](https://eproc2.bihar.gov.in). On a normal day there are **700+ open tenders from 50+ departments**. For a small contractor that means:
+Bihar publishes all government works on [eproc2.bihar.gov.in](https://eproc2.bihar.gov.in). On a normal day there are **700+ open tenders from 50+ departments**. For a contractor that means:
 
-- opening the portal every day and scrolling through hundreds of rows; the "Latest Tenders" table shows only 20 at a time
-- missing tenders in their own district or department, or noticing them too late
-- downloading and reading a 10–40 page NIT (often a scanned Hindi document) just to learn whether they qualify to bid
+- **The portal is hard to use.** Many contractors don't know how to search it or open a specific tender ID, so they pay someone to check tenders for them or wait for the newspaper.
+- **It isn't mobile-friendly.** On a phone you zoom and scroll through hundreds of rows, and a lot of time goes into finding the right tender.
+- **Tenders get missed.** Tenders in their own district or department are easy to miss, or are noticed too late.
+- **The rules are buried in the NIT.** Contractors download and read a 10–40 page NIT, often a scanned Hindi document, just to learn whether they qualify to bid.
 
-Paid tender-alert services exist, but they cost about ₹25,000 a year, deliver by email, and are built for suppliers rather than civil contractors.
+Paid tender-alert services exist, but they cost about ₹25,000 a year and deliver by email.
+
+**This bot brings the tenders to the contractor's phone instead.** It shows only their departments, their districts and the tender size they can handle. For each tender it gives a short summary of the qualification rules (turnover, experience, machinery, documents), so they can see at a glance whether they can bid.
 
 I built this first for my family's civil-contracting business, then opened it up to other contractors.
 
