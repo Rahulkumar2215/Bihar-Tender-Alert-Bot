@@ -22,11 +22,28 @@ Bihar publishes all government works on [eproc2.bihar.gov.in](https://eproc2.bih
 - **Tenders get missed.** Tenders in their own district or department are easy to miss, or are noticed too late.
 - **The rules are buried in the NIT.** Contractors download and read a 10–40 page NIT, often a scanned Hindi document, just to learn whether they qualify to bid.
 
-Paid tender-alert services exist, but they cost about ₹25,000 a year and deliver by email.
+## The existing paid answer
 
-**This bot brings the tenders to the contractor's phone instead.** It shows only their departments, their districts and the tender size they can handle. For each tender it gives a short summary of the qualification rules (turnover, experience, machinery, documents), so they can see at a glance whether they can bid.
+Commercial services already sell this as a subscription. For example, **mjPROConnect** (mjunction) offers Bihar eProcurement tender matching: you pick product and service categories, and matching new tenders are delivered to an email inbox. Its published plans are **₹15,000 for 6 months or ₹25,000 for 12 months**. That price is out of reach for many small contractors.
 
-I built this first for my family's civil-contracting business, then opened it up to other contractors.
+## What I built: the same core job, at no cost
+
+**Bihar Tender Alerts** solves the same problem (bring the right tenders to the contractor automatically) and is **free for contractors**. It also **costs nothing to run**: it uses free tools only (Python, SQLite, the Telegram Bot API, Gemini's free tier) on a home PC.
+
+| | Typical paid service (e.g. mjPROConnect) | Bihar Tender Alerts |
+|---|---|---|
+| Price for the contractor | ₹15,000 / 6 months · ₹25,000 / year | **Free** |
+| Delivered to | Email inbox | **Telegram on the phone**, every 3 hours |
+| How you choose tenders | Product / service categories | **Department + district + tender size** (type of work optional), all by tapping buttons |
+| Deadline reminders and extensions | Not described in its offer | **Reminder before closing; alert when a deadline is extended** |
+| Who can bid | Not described in its offer | **Turnover, experience, bid capacity, machinery, staff and documents**, in rupees, from the tender data or read from the NIT by AI |
+| BOQ / NIT files | Not described in its offer | **One-tap download** in the chat |
+| Search | Inbox | **Type `civil Patna`, `BCD` or a tender ID** |
+| Running cost | Commercial subscription | **₹0** (free tools and free AI tier) |
+
+*The mjPROConnect details are taken from its own promotional email (Oct 2026). "Not described" means its offer didn't mention the feature, not that it's absent.*
+
+I built this first for my family's civil-contracting business, where we faced these problems ourselves, then opened it up to other contractors.
 
 ## What it does
 
