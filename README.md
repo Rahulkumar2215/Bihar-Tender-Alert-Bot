@@ -39,6 +39,13 @@ I built this first for my family's civil-contracting business, then opened it up
 | 📢 **Public channel + private bot** | The channel lists every new tender; the bot gives each user their own filtered alerts and full details |
 | 📊 **Owner stats** | `STATS` (owner only): channel members, bot users, searches, details opened, NITs read and downloads, plus a morning report |
 
+### Screenshots (live bot)
+
+| Personal alerts | Tender details | Who can bid (AI read the NIT) | Settings by tap |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/screenshots/1-alerts.jpg" width="200" alt="Alerts grouped by department, each with a Full details link"> | <img src="docs/screenshots/2-tender-details.jpg" width="200" alt="Full tender details: value, EMD, fees, dates, pre-bid, office"> | <img src="docs/screenshots/3-who-can-bid-ai.jpg" width="200" alt="Who can bid, read from the NIT PDF by AI: turnover, experience, bank credit, machinery, staff, completion"> | <img src="docs/screenshots/4-settings.jpg" width="200" alt="Settings: departments, districts, size, type of work, alert timing"> |
+| New tenders grouped by department, each with a 👉 link | Value, EMD, fees, dates, pre-bid, issuing office | Turnover ₹9.17 Cr, experience ₹91.76 L, bank credit, completion: read from the tender's NIT PDF | Everything changed with buttons, no commands |
+
 ### Example alert (Telegram)
 
 ```text
