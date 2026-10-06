@@ -17,8 +17,7 @@
 
 Bihar publishes all government works on [eproc2.bihar.gov.in](https://eproc2.bihar.gov.in). On a normal day there are **700+ open tenders from 50+ departments**. For a contractor that means:
 
-- **Many contractors don't use the portal themselves.** They don't know how to open the website, search it or find a tender's details. So they depend on a **tender agent**, pay someone to check the portal for them, or wait for **newspaper clippings** of recently published tenders, which often arrive late.
-- **It isn't mobile-friendly.** On a phone you zoom and scroll through hundreds of rows, and a lot of time goes into finding the right tender.
+- **Many contractors don't use the portal themselves.** They don't know how to open the website, search it or find a tender's details. So they depend on **tender agent** or wait for **newspaper clippings** of recently published tenders, which often arrive late.
 - **Tenders get missed.** Tenders in their own district or department are easy to miss, or are noticed too late.
 - **The rules are buried in the NIT.** Contractors download and read a 10–40 page NIT, often a scanned Hindi document, just to learn whether they qualify to bid.
 
